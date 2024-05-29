@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi 👋
+I am a college student from China, a little bit of experience with Java. Also uses Python, C, etc. Now I am learning Rust, Kotlin, Android.
 
 <!--
 **XEarthlydust/XEarthlydust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
